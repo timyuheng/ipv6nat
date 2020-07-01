@@ -1,1 +1,1 @@
-FROM robbertkl/ipv6nat
+FROM robbertkl/ipv6nat:latest
